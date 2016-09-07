@@ -1,3 +1,11 @@
+Ethelo Deploy
+============
+
+This is a trivial modification of gulp-subtree that adds the -f flag to 'git add', which is what we need for our purposes. You probably want gulp-subtree, not this. 
+
+
+Gulp-subtree docu follows:
+
 Gulp Subtree
 ============
 
